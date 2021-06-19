@@ -13,7 +13,7 @@ comments: true
 
 After the 7-School United Examination, we found that Yichang No.1 High School got the worst result in the seven schools. 
 
-In order to praise ~~(diss)~~ our school, we created this site. Hope you like it!(●'◡'●)
+In order to praise ~~(diss)~~ our school, we created this site. Hope you like it!
 
 If you have any suggestions, feel free to send us emails. 
 
