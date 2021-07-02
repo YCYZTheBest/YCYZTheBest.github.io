@@ -1,6 +1,4 @@
-# Holden Rye ------ A Third-Party Discussion Board of YCYZ
-
-## 霍尔顿麦田 ------ 宜昌一中校内第三方讨论板
+## 一中小黑板 ------ 宜昌一中校内第三方讨论板
 
 ### 免责声明
 
