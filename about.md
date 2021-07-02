@@ -7,13 +7,7 @@ categories:
 tags: [sample, document]
 comments: true
 --- 
-
-
-After the 7-School United Examination, we found that Yichang No.1 High School got the worst result in the seven schools. 
-
-In order to praise ~~(diss)~~ our school, we created this site. Hope you like it!
-
-If you have any suggestions, feel free to send us emails. 
+ 
 
 投稿邮箱：Address: [fuckycyz@protonmail.com](mailto:fuckycyz@protonmail.com)
 
@@ -27,9 +21,7 @@ We use end-to-end encryption to protect your mail.
 **经过审核之后会展示在此网站。**
 
 
-# Holden Rye ------ A Third-Party Discussion Board of YCYZ
-
-## 霍尔顿麦田 ------ 宜昌一中校内第三方讨论板
+## 一中小黑板 ------ 宜昌一中校内第三方讨论板
 
 ### 免责声明
 
