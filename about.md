@@ -11,9 +11,6 @@ comments: true
 
 投稿邮箱：Address: [fuckycyz@protonmail.com](mailto:fuckycyz@protonmail.com)
 
-我们使用了端到端加密以保护你的邮件。
-
-We use end-to-end encryption to protect your mail.
 
 [为什么我们决定创建这个站点](./_posts/2020-06-09-why.md)
 
