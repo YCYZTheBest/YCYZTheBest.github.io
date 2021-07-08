@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 免责声明
-date: 2020-06-08
+date: 2076-12-31
 Author: Mr.Board
 categories: 
 tags: [Info]
